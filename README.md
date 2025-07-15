@@ -1,2 +1,1 @@
-# LibraryManagementSystem
-Library Management System Java
+# LibraryManagementSystem programmed using Java by Sipho Kinyabo 💪🏾
